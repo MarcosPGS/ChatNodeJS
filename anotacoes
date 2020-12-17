@@ -1,0 +1,7 @@
+Dependencias:
+express
+cors
+mongoose
+
+obs.: Utilize o @type na frente das dependecias, PQ? pq você precisa tipar as bibliotecas já que está usando o TypeScrip.
+ex.:npm i @types/express @types/cors @types/mongoose
